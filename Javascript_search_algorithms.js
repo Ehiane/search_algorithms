@@ -1,3 +1,4 @@
+
 //Binary search algorithm 🔢
 function binarySearch(arr, target) {
   let left = 0;
